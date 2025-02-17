@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+!/assets/node_modules/
 # Expo
 .expo/
 dist/
